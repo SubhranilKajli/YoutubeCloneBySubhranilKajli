@@ -1,0 +1,34 @@
+p{
+    font-family: Roboto,arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+
+body{
+   margin: 0px; 
+   padding-top: 80px;
+   padding-left: 93px;
+   background-color: #f9f9f9;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+a .video-title{
+    color: black;
+} 
+a div{
+    color: black;
+} 
+
+.thumbnail-row a img{
+    border-radius: 12px;
+}
+
+.channel-picture a img{
+    height: 35px;
+    width: 35px;
+}
